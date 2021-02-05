@@ -10,9 +10,9 @@
 # site domain, full URL to the production location of your collection
 url: https://wsu-cdsc.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /hirahara
+baseurl: /collectionbuilder_hirahara
 # location of code, the full url to your github repository
-source-code: https://github.com/NikiJD/collectionbuilder_hirahara
+source-code: https://github.com/WSU-CDSC/collectionbuilder_hirahara
 
 ##########
 # SITE SETTINGS
